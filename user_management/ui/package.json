@@ -1,0 +1,19 @@
+{
+  "name": "ui",
+  "version": "1.0.0",
+  "description": "user management ui design only",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arunthomasalex/docker_apps.git"
+  },
+  "author": "Arun Thomas Alex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arunthomasalex/docker_apps/issues"
+  },
+  "homepage": "https://github.com/arunthomasalex/docker_apps#readme"
+}
